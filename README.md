@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi 👋! My name is Surattinon { Basu }<br>I'm a Junier Dev from Thailand.</h1>
+<h1 align="center">Hi 👋! I'm is Surattinon { Basu }<br>a junier Dev from Thailand.</h1>
 
 ###
 
