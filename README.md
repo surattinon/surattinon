@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="left">Dev.</h2>
+<h2 align="left">Dev | Language and tools :</h2>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h2 align="left">Design.</h2>
+<h2 align="left">Design | Tools :</h2>
 
 ###
 
