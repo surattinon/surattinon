@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=surattinon&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=surattinon&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 
 ###
