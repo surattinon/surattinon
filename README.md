@@ -4,8 +4,7 @@
 
 ###
 
-<h1 align="center">I'm Surattinon | バース</h1>
-<h3 align="center">A junier Dev from Thailand.</h3>
+<h1 align="center">Hi 👋! I'm is Surattinon { Basu }<br>a junier Dev from Thailand.</h1>
 
 ###
 
@@ -43,7 +42,7 @@
 
 ###
 
-<h2 align="left">Dev | Language and tools :</h2>
+<h2 align="left">Dev | Languages and tools :</h2>
 
 ###
 
@@ -58,13 +57,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
