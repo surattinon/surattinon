@@ -26,7 +26,8 @@
 
 ###
 
-<h4 align="center">Contact mail : <a href="mailto:contacts@ofbas.com">contacts@ofbas.com</a></h4>
+
+<h3 align="center">Email : <a href="mailto:contacts@ofbas.com"> contacts@ofbas.com</a><h3>
 
 ###
 
