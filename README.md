@@ -26,7 +26,6 @@
 
 ###
 
-
 <h3 align="center">Email : <a href="mailto:contacts@ofbas.com"> contacts@ofbas.com</a><h3>
 
 ###
@@ -48,9 +47,23 @@
 <hr>
 
 ###
+
 </br>
 
-<h2 align="left">Dev | Languages and tools { Learning } :</h2>
+<h2 align="left">Dev | OS :</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<h2 align="left">Dev | Tools { Learning } :</h2>
 
 ###
 
